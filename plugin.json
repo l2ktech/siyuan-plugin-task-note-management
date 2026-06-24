@@ -1,5 +1,5 @@
 {
-  "name": "siyuan-plugin-task-note-management",
+  "name": "siyuan-plugin-task-note-management-pro",
   "author": "Achuan-2",
   "url": "https://github.com/Achuan-2/siyuan-plugin-task-note-management",
 "version": "6.9.14",
@@ -22,8 +22,8 @@
   ],
   "disabledInPublish": true,
   "displayName": {
-    "default": "Task Note Management",
-    "zh_CN": "任务笔记管理"
+    "default": "Task Note Management Pro",
+    "zh_CN": "任务笔记管理 Pro"
   },
   "description": {
     "default": "A plugin for SiYuan Note that implements task management features, developed to practice the Bullet Journal method. It supports document and block reminders, calendar view for scheduling, Pomodoro focus timer, and more.",
