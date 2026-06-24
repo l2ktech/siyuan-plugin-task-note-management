@@ -414,7 +414,7 @@ export default class ReminderPlugin extends Plugin {
     private coordinatorChannel: BroadcastChannel;
 
     public settings: any;
-    public vip: any = { vipKeys: [], isVip: false, expireDate: '', freeTrialUsed: false };
+    public vip: any = { vipKeys: [], isVip: true, expireDate: '2099-12-31 23:59', freeTrialUsed: false, isLifetime: true };
     public isInMobileApp: boolean = false; // 是否在移动端（手机或平板）运行
 
     public getWorkspaceDir(): string {
